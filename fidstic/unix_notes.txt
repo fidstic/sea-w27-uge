@@ -1,0 +1,14 @@
+ls - list files within director
+ls -a - list all contents including .xxx files
+cat - display content of file 
+cd <directory> - move to directory specified
+cd.. - move up one directory
+mkdir <dir name> - make new directory
+man <command> - defines command specified 
+find - finds files
+rm <file name> - removes specified file
+rm -r <dir> - removes specified directory provided when empty
+echo <text> - displays a line of text 
+top - displays sorted processes by cpu use
+mv - move file 
+mv <file> <file> - rename file  
