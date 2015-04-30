@@ -1,0 +1,15 @@
+git init - initialize a new repository
+git init <directory> - new repository in specified directory
+git add - adds change from working directory to staging area
+git commit - commits change to repository 
+git commit -m - commits change to repository with commit message
+git branch - lists current working branch
+git branch <branch name> - creates new branch with specified name
+git branch -D <branch name> - deletes specified branch
+git checkout master - moves to master branch
+git checkout <branch name> - move to branch specified 
+git checkout -b <branch name> - creates branch and moves to branch
+git merge <branch name> - merges specified branch into current branch
+git clone <repository name> - clones specified repository 
+git push <remote repository > - pushes all changes to specified remote repository
+ 
